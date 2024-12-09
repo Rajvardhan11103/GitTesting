@@ -1,0 +1,2 @@
+public class yep {
+}
